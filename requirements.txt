@@ -1,0 +1,3 @@
+# project dependencies with pinned versions for reproducible builds.
+# the '==' operator ensures exactly version 8.4.2 of pytest is installed.
+pytest==8.4.2
